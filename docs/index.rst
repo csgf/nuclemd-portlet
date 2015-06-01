@@ -93,21 +93,24 @@ To run the simulations the user has to:
 
 Each simulation will produce:
 
-- *std.txt*: the standard output file;
+- *std.out*: the standard output file;
 
 - *std.err*: the standard error file;
 
-- *.tar.gz*: containing the results of the simulation.
+- *nuclemd.log*: the NUCLEMD log file;
+
+- *.tar.gz*: containing the NUCLEMD output results.
 
 A typical simulation produces, at the end, the following files:
 
 .. code:: bash
 
-        ]$ tree IortTherapySimulationStarted_646/
-        IortTherapySimulationStarted_646/
+        ]$ tree NUCLEMDSimulationStarted_1826/
+        NUCLEMDSimulationStarted_1826/
         ├── std.err
-        ├── std.txt
+        ├── std.out
         ├── output.README
+        ├── nuclemd.log
         └── results.tar.gz
 
 The list of files produced during the run are the following:
@@ -115,10 +118,13 @@ The list of files produced during the run are the following:
 .. code:: bash
 
         ]$ tar ztvf results.tar.gz
-        currentEvent.rndm
-        currentRun.rndm
-        Dose.out
-        Energy_MeV.out
+        18O40Ca_out
+        18O40Ca_t_out
+        fort.6
+        output.README
+        POT.DAT
+        rp_out_runco.conf
+        seed_dat_runco.conf
 
 ============
 Support
