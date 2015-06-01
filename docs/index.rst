@@ -7,8 +7,6 @@ About
 ============
 
 .. |MAGNEX| image:: images/magnex_logo.gif
-   :align: center
-   :target: http://www.lns.infn.it/magnex/descript.html
 
 NUCLEMD is a computer code based on the Constrained Molecular Dynamics model. The peculiarity of the algorithm consists on the isospin dependence of the nucleon-nucleon cross section and on the presence of the Majorana Exchange Operator in the nucleon-nucleon collision term.
 
@@ -134,7 +132,7 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
 
- `Gianluca GIULIANI <mailto:susanna@uow.edu.au>`_ - Italian National Institute of Nuclear Physics - LNS (INFN_LNS_),
+ `Gianluca GIULIANI <mailto:gianluca.giuliani1@gmail.com>`_ - Italian National Institute of Nuclear Physics - LNS (INFN_LNS_),
  
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
