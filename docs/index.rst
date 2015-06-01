@@ -6,7 +6,7 @@ NUCLEMD v1.2.2 Docs
 About
 ============
 
-.. |MAGNEX| image:: images/magnex_logo.gif
+.. |MAGNEX| image:: images/magnex_logo.png
 
 NUCLEMD is a computer code based on the Constrained Molecular Dynamics model. The peculiarity of the algorithm consists on the isospin dependence of the nucleon-nucleon cross section and on the presence of the Majorana Exchange Operator in the nucleon-nucleon collision term.
 
