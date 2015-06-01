@@ -14,9 +14,15 @@ The code will be devoted to the study of Single and Double Charge Exchange proce
 
 In particular, in the first stage of simulations, the following reactions will be under study:
 
-1. 
+.. raw:: html
 
-2.
+<embed>
+
+1. <sup>18</sup>O + <sup>40</sup>Ca   &nbsp;&nbsp;E<sub><small>inc</small></sub>=270 MeV
+
+2. <sup>18</sup>O + <sup>12,13</sup>C &nbsp;&nbsp;E<sub><small>in</small></sub>=84 MeV
+
+</embed>
 
 The aim is to provide theoretical support to the experimental results of the DREAMS collaboration obtained by means of the |MAGNEX| spectrometer.
 
