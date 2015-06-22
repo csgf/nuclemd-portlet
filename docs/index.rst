@@ -1,5 +1,5 @@
 *********************
-NUCLEMD Docs
+NUCLEMD
 *********************
 
 ============
@@ -121,7 +121,7 @@ The list of files produced during the run are the following:
         seed_dat_runco.conf
 
 ============
-Support
+Contact
 ============
 Please feel free to contact us any time if you have any questions or comments.
 
@@ -136,6 +136,3 @@ Please feel free to contact us any time if you have any questions or comments.
  
  `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
-:Version: v1.2.2, 2015
-
-:Date: June 1st, 2015 16:36
