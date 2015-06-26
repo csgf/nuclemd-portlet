@@ -1,7 +1,11 @@
+[![Travis](http://img.shields.io/travis/csgf/nuclemd-portlet/master.png)](https://travis-ci.org/csgf/nuclemd-portlet)
+[![Documentation Status](https://readthedocs.org/projects/csgf/badge/?version=latest)](http://csgf.readthedocs.org)
+[![License](https://img.shields.io/github/license/csgf/nuclemd-portlet.svg?style?flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 # nuclemd-portlet
 
 <h2>Requirements</h2>
-- JDK 7+
+- JDK 6+
 - JSAGA libs (v1.1.x)
 - jsaga-job-management (v1.5.9+)
 
